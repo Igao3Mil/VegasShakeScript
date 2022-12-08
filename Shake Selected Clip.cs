@@ -84,15 +84,15 @@ public class EntryPoint
 		
 		Label label = new Label();
 		label.Margin = new Padding(4, 4, 4, 4);
-		label.Text = "Shake speed";
+		label.Text = "Speed";
 		l.Controls.Add(label);
 		
 		TextBox SkewInBox = new TextBox();
 		SkewInBox.Text = String.Format("{0}", SkewIn);
 		l.Controls.Add(SkewInBox);
 		
-		tt.SetToolTip(label, "Lower values for slower camera movement.");
-		tt.SetToolTip(SkewInBox, "Lower values for slower camera movement.");
+		tt.SetToolTip(label, "Changes the frequency of the shake.");
+		tt.SetToolTip(SkewInBox, "Changes the frequency of the shake.");
 		
 		label = new Label();
 		label.Margin = new Padding(4, 4, 4, 4);
@@ -108,7 +108,7 @@ public class EntryPoint
 		
 		label = new Label();
 		label.Margin = new Padding(4, 4, 4, 4);
-		label.Text = "Pixels to displace";
+		label.Text = "Amount";
 		l.Controls.Add(label);
 		
 		TextBox SkewOutBox = new TextBox();
