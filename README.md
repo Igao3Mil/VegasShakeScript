@@ -24,3 +24,6 @@ After that, navigate to the directory:
 C:\Program Files\VEGAS\VEGAS Pro <version>\Script Menu
 ```
 And just put the script file in there.
+
+# Usage
+Now, open your Sony Vegas, or Magix vegas, navigate to `Tools`, then `Scripting`, and finally, `VegasShakeScript`.
