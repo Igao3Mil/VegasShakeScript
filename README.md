@@ -6,9 +6,7 @@ Check out the [original repository](https://github.com/tmarplatt/VegasScripts).
 
 # VegasShakeScript
 
-A Simple camera shake scrpit written in C# for Sony Vegas.
-
-This script uses Pan/crop to make the selected layer shake.
+A Simple camera shake scrpit written in C# for Sony/Magix Vegas that uses Pan/crop keyframes to make the selected layer shake.
 
 ![uffjffghjfhh](https://user-images.githubusercontent.com/67767832/206513622-ecbef6c6-f5fd-471e-8211-dce795927141.png)
 
