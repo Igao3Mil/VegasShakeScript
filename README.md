@@ -1,6 +1,6 @@
 # This is a fork!
-I didn't wrote any of this code!
-I just forked and did some little changes to make it easier to download and use.
+I didn't write any of this code!
+I just forked and changed some little things to make it easier to download and use.
 
 Check out the [original repository](https://github.com/tmarplatt/VegasScripts).
 
