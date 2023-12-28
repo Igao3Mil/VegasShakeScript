@@ -36,7 +36,7 @@ C:\Program Files\Sony\VEGAS Pro <version>\Script Menu
 Open your Vegas Pro, navigate to `Tools`, then `Scripting`, and finally, `VegasShakeScript`.
 
 # Notes
-As I said at the very top of this readme file, I didn't write any of the code of the script. This is a forked repository, that I made because I didn't liked how the original looks. I also did some little changes to the code, so it works with newer versions of the program.
+As I said at the very top of this readme file, I didn't write any of the code of the script. This is a forked repository, that I made because I didn't like how the original looks. I also did some little changes to the code (literally a single line), so it works with newer versions of the program.
 
 If you have any questions or issues, make sure to check out the [original repository](https://github.com/tmarplatt/VegasScripts), since it will probably be better for code related things, and also has the source code without any modifications.
 
